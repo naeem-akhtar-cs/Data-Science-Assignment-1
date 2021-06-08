@@ -40,4 +40,7 @@ The process was completed in the following order.
   5. Plotting Scatter Graph
   
 
+## How to Run
+To run the code you need to install Jupter Note Book with Python 3.6. You can directly clone the respository and open each question in separate note book.
+
 If there is any question feel free to reach me via e-mail. Thanks
